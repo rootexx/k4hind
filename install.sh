@@ -37,7 +37,9 @@ git clone https://github.com/sqlmapproject/sqlmap
 git clone https://github.com/htr-tech/zphisher
 git clone https://github.com/wireshark/wireshark
 git clone https://github.com/cyweb/hammer
+git clone https://github.com/wpscanteam/wpscan
 apt-get install ruby -y
+apt-get install json-c 
 echo "Lütfen izin verin.."
 sleep 3
 termux-setup-storage
