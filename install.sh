@@ -57,5 +57,5 @@ pip install requests
 sleep 3
 clear
 figlet -f big "K4HINz"
-figlet -f small "Karsiliksiz sevmistim seni..." 
+figlet -f small "Seni Rastgele Sevmedim Ki..." 
 sleep 3
