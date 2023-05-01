@@ -16,7 +16,7 @@ figlet -f small " Kurulum baslatiliyor"
 sleep 1
 figlet -f small "K4HINz"
 sleep 1
-figlet -f small "Bizi Tercih Ettiğiniz İçin Teşekkürler :)"
+figlet -f small "Rica eder:)"
 sleep 1
 echo " Paketler indiriliyor..." 
 apt-get install curl -y
@@ -48,7 +48,7 @@ pip install PySocks
 clear
 pip install bs4
 sleep 1
-echo " Indirme baslatiliyor lütfen sabırlı olun."
+echo " Indirme baslatiliyor."
 sleep 1
 echo " pip dosyaları indiriliyor" $G
 pip install --upgrade pip
