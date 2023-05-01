@@ -12,9 +12,9 @@ apt upgrade -y
 clear
 pkg install figlet -y
 clear
-figlet -f small " Kurulum baslatiliyor" 
+figlet -f small " Kurulum basliyor" 
 sleep 1
-figlet -f small "K4HINz"
+figlet -f small "K4HİNz"
 sleep 1
 figlet -f small "Rica eder:)"
 sleep 1
@@ -57,5 +57,5 @@ pip install requests
 sleep 3
 clear
 figlet -f big "K4HINz"
-figlet -f small "KARŞILIKSIZ SEVMİŞTİM SENİ..." 
+figlet -f small "Karsiliksiz sevmistim seni..." 
 sleep 3
